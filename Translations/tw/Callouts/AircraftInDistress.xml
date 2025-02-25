@@ -1,0 +1,118 @@
+<CALLOUT>
+	<GENERAL>
+		<CALLOUTMESSAGE><![CDATA[飛機遇險]]></CALLOUTMESSAGE>
+		<FURTHERINFORMATION><![CDATA[這架~o~飛機~w~將會在~y~等待航線~w~上停留幾分鐘，然後再~y~嘗試降落~w~。]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[一架飛機正在~r~緊急降落~w~於~y~{0}~w~。前往指定的降落區域並等待進一步指示。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[這架~o~飛機~w~現在被授權進行~r~緊急降落~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[現場已經代碼4，因為~g~飛機安全降落~w~在~y~{0}~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[與~y~飛行員~w~交談並調查情況。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[飛機已經降落。~y~與飛行員交談~w~以確認一切正常。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[我們~r~無法生成飛機~w~。請重試呼叫或聯繫支持。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[我們已經~y~失去與飛機~w~雷達定位的~o~聯繫~w~。嘗試建立~y~目視~w~飛機的~o~聯繫~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[我們已經~g~恢復與飛機~w~雷達定位的~o~聯繫~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[這架~o~飛機~w~已經~r~墜毀~w~。請稍候，我們將引導您前往墜機現場。找到後，請按您認為合適的方式繼續。]]></NOTIFICATION>
+		<OTHER><![CDATA[洛聖都國際機場]]></OTHER>
+		<OTHER><![CDATA[沙灘海岸飛行場]]></OTHER>
+	</GENERAL>
+	<OUTCOME0>
+		<FURTHERINFORMATION><![CDATA[一架~o~飛機~w~遇到~y~引擎問題~w~。前往降落區域並準備迎接飛機降落。]]></FURTHERINFORMATION>
+		<DIALOGUES>
+			<DIALOGUE EMOTION="grateful"><![CDATA[~y~飛行員:~w~ 謝謝你，警官！你覺得降落怎麼樣？]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 對於一個引擎冒煙的人來說，不錯！]]></DIALOGUE>
+			<DIALOGUE EMOTION="appreciative"><![CDATA[~y~飛行員:~w~ 我很感激你來確保一切正常。你需要什麼嗎？]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 不需要，我們只是想確保萬一有什麼問題。]]></DIALOGUE>
+			<DIALOGUE EMOTION="concerned"><![CDATA[~y~飛行員:~w~ 我得讓我的機械師看看引擎。如果我再在空中多待幾分鐘，我不知道是否能安全降落。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你今天做得很好。我會讓你處理你的飛機，保重。]]></DIALOGUE>
+			<DIALOGUE EMOTION="grateful"><![CDATA[~y~飛行員:~w~ 謝謝你，警官。保重，對不起造成麻煩！]]></DIALOGUE>
+		</DIALOGUES>
+		</DIALOGUES>
+	</OUTCOME0>
+	<OUTCOME1>
+		<FURTHERINFORMATION><![CDATA[一名乘客在~o~飛機~w~上~r~死亡~w~。與飛行員交談以確定情況是否~y~可疑~w~。]]></FURTHERINFORMATION>
+		<DIALOGUES>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，機長。你能告訴我在空中發生了什麼嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="sad"><![CDATA[~y~飛行員:~w~ 當然...我帶我的朋友去飛行，他們在空中突然昏倒了。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你能具體說說嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="stressed"><![CDATA[~y~飛行員:~w~ 我當時專注於飛行，因為今天空域很繁忙，然後我回頭一看，他們已經沒有反應了。我隨即在這裡緊急降落。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你的朋友有告訴你他們有什麼健康問題嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="guilty"><![CDATA[~y~飛行員:~w~ 說實話，我們從來沒有談過這個。我只是以為他們的健康狀況足以飛行...]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 這裡現在是一個犯罪現場，我需要調查。可以嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="cooperative"><![CDATA[~y~飛行員:~w~ 當然可以，警官，我會全力配合。]]></DIALOGUE>
+		</DIALOGUES>
+		<OTHER><![CDATA[~r~氯仿布~w~]]></OTHER>
+		<OTHER><![CDATA[~r~窒息痕跡~w~]]></OTHER>
+		<OTHER><![CDATA[~y~枕頭~w~]]></OTHER>
+	</OUTCOME1>
+	<OUTCOME2>
+		<NOTIFICATION><![CDATA[這架 ~o~飛機~w~ 隨時有可能 ~y~爆炸~w~。與飛行員交談並立即開始疏散！]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[這架 ~o~飛機~w~ 已經 ~r~爆炸~w~。請視情況繼續行動。]]></NOTIFICATION>
+		<DIALOGUES>
+			<DIALOGUE EMOTION="urgent"><![CDATA[~b~你:~w~ 快從飛機下來，跟著我！快點！]]></DIALOGUE>
+		</DIALOGUES>
+	</OUTCOME2>
+	<OUTCOME3>
+		<FURTHERINFORMATION><![CDATA[一架 ~o~飛機~w~ 正遭遇 ~y~引擎故障~w~，需要緊急降落。~n~報告顯示 ~r~跑道被阻塞~w~。在飛機降落前請立即清理！]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[在 ~o~飛機~w~ 嘗試降落前先移動障礙物，然後與飛行員交談。]]></NOTIFICATION>
+		<DIALOGUES>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~飛行員:~w~ 差點就出大事了，感謝你及時清理跑道。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 沒問題，我們很高興能及時移走障礙物。飛機狀況如何？]]></DIALOGUE>
+			<DIALOGUE EMOTION="grateful"><![CDATA[~y~飛行員:~w~ 還算不錯，引擎故障影響很大，但我們成功降落了。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 在這種情況下，你的表現相當出色。]]></DIALOGUE>
+			<DIALOGUE EMOTION="modest"><![CDATA[~y~飛行員:~w~ 謝謝，這也算是工作的一部分吧。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 確實如此。我們很高興你們平安無事。需要任何幫助嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="confident"><![CDATA[~y~飛行員:~w~ 不用了，我們應該能處理，地勤人員已在趕來的路上。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 好的，如果有需要，隨時通知我們。]]></DIALOGUE>
+			<DIALOGUE EMOTION="grateful"><![CDATA[~y~飛行員:~w~ 會的，再次感謝你的幫助，警官。]]></DIALOGUE>
+		</DIALOGUES>
+	</OUTCOME3>
+	<OUTCOME4>
+		<FURTHERINFORMATION><![CDATA[An ~o~aircraft~w~ is reporting an emergency due to a ~y~suspected stowaway~w~ onboard. Apprehend the aircraft upon landing.]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[Checking to see if ~y~any prisoners have escaped~w~ in the last 24 hours. Standby.]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[We can confirm a ~y~{0}~w~ escaped from prison in the last 24 hours. Suspect is still at large.]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[Press ~y~{0}~w~ to search the ~o~aircraft~w~.]]></NOTIFICATION>
+		<DIALOGUES>
+			<DIALOGUE><![CDATA[~b~You:~w~ Hey there, how can we help?]]></DIALOGUE>
+			<DIALOGUE EMOTION="nervous"><![CDATA[~y~Pilot:~w~ While I was flying I heard some shuffling in my aircraft. And it sounded like an animal.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Have you left your aircraft unattended recently?]]></DIALOGUE>
+			<DIALOGUE EMOTION="guilty"><![CDATA[~y~Pilot:~w~ Yes, I don't have a hanger so I left it out for a few days.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ What do you think it might be?]]></DIALOGUE>
+			<DIALOGUE EMOTION="suspicious"><![CDATA[~y~Pilot:~w~ Well Officer, I have my suspicions that I have a stowaway onboard. I didn't want to check, but if you can search my plane I'd appreciate it.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Let me just check something with Dispatch.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ I'm going to search your aircraft now.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[]]></DIALOGUE>
+			<DIALOGUE EMOTION="angry"><![CDATA[~b~You:~w~ Don't move! What do you think you're doing here?]]></DIALOGUE>
+			<DIALOGUE EMOTION="defensive"><![CDATA[~r~Stowaway:~w~ Oh, uh...I was just trying to get somewhere. Look, you've got the wrong person.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Save it, you're not as sneaky as you think. We know who you are.]]></DIALOGUE>
+			<DIALOGUE EMOTION="persistent"><![CDATA[~r~Stowaway:~w~ I swear Officer, I didn't mean any harm. I just needed a way out.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ A way out? Well you've certainly found one. Running around with a warrant on your head is a way back to the cells.]]></DIALOGUE>
+			<DIALOGUE EMOTION="sad"><![CDATA[~r~Stowaway:~w~ Please, you gotta understand. It's complicated.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Complicated doesn't excuse breaking the law. You're coming with me.]]></DIALOGUE>
+		</DIALOGUES>
+	</OUTCOME4>
+	<OUTCOME5>
+		<FURTHERINFORMATION><![CDATA[An ~o~aircraft~w~ is reporting an emergency due to a ~y~smashed window~w~ that occured during flight. Head to the landing area and prepare for the aircraft's landing.]]></FURTHERINFORMATION>
+		<DIALOGUES>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Officer, thanks for being here. That was one heck of a landing.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ No problem, Captain. We got the call about your window. Are you alright?]]></DIALOGUE>
+			<DIALOGUE EMOTION="shaken"><![CDATA[~y~Pilot:~w~ Yeh, just a bit shaken. Never had a window shatter like that mid-flight.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ You handled it well, though. How did you manage to stay calm?]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Years of training, I guess. It was all about keeping focus and getting us down safely.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Well you certainly did a great job. We had emergency services on standby just in case. Glad we didn't need them.]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Me too. Thanks for your help, I appreciate it.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Anytime, Captain. That's what we are here for. Take care, let us know if you need anything else.]]></DIALOGUE>
+		</DIALOGUES>
+	</OUTCOME5>
+	<OUTCOME6>
+		<FURTHERINFORMATION><![CDATA[An ~o~aircraft~w~ is making an emergency landing due to ~y~bad weather conditions~w~. Head to the landing area and prepare for the aircraft's landing.]]></FURTHERINFORMATION>
+		<DIALOGUES>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Whew, that was quite a landing.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Are you alright Captain? That storm came out of nowhere.]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Yeah. The weather radar didn't do justice to the turbulence out there.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ You did a remarkable job bringing her down safely. We were worried about you.]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Thanks Officer. I appreciate you being here to ensure everything went smoothly. It was touch and go for a moment.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Glad you're safe. Let me know if you need assistance with anything.]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~y~Pilot:~w~ Thanks again. I'll talk to ATC once we're ready to move. Hopefully the weather lets up soon.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~You:~w~ Fingers crossed. Take care Captain and good job again.]]></DIALOGUE>
+		</DIALOGUES>
+	</OUTCOME6>
+</CALLOUT>

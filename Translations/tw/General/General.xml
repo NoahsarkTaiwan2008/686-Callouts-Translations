@@ -1,0 +1,63 @@
+<GENERAL>
+	/// Notifications related to the Update Check.
+	<UPDATECHECKER>
+		<LOADED><![CDATA[~g~加載完美~w~，是時候巡邏了！]]></LOADED>
+		<UPDATEAVAILABLE><![CDATA[~r~您使用的是舊版本！]]></UPDATEAVAILABLE>
+		<UPDATEAVAILABLE><![CDATA[~y~已加載，但請盡快更新 686 Callouts。]]></UPDATEAVAILABLE>
+		<BETAVERSION><![CDATA[~r~檢測到 Beta 版本。]]></BETAVERSION>
+		<BETAVERSION><![CDATA[感謝您的測試和反饋。 <3]]></BETAVERSION>
+		<FAILED><![CDATA[~r~檢查更新失敗！]]></FAILED>
+		<FAILED><![CDATA[~y~已加載，但我們無法檢查更新。]]></FAILED>
+	</UPDATECHECKER>
+	
+	/// Notifications related to the Dependency check.
+	<DEPENDENCYCHECK>
+		<MISSINGFILES><![CDATA[686 Callouts 缺少檔案!]]></MISSINGFILES>
+		<CALLOUTINTERFACEAPI><![CDATA[CalloutInterfaceAPI]]></CALLOUTINTERFACEAPI>
+		<_686CALLOUTSFOLDER><![CDATA[686 Callouts 資料夾]]></_686CALLOUTSFOLDER>
+		<AUDIOFOLDER><![CDATA[聲音資料夾]]></AUDIOFOLDER>
+		<AUDIOFILES><![CDATA[聲音檔案]]></AUDIOFILES>
+		<TRANSLATIONSFOLDER><![CDATA[Translations 資料夾]]></TRANSLATIONSFOLDER>
+	</DEPENDENCYCHECK>
+	
+	/// Notifications related to Career Statistics.
+	<STATISTICS>
+		<CAREERSTATISTICS><![CDATA[職業統計]]></CAREERSTATISTICS>
+		<CALLS><![CDATA[呼叫]]></CALLS>
+		<FIGHTS><![CDATA[打鬥]]></FIGHTS>
+		<PURSUITS><![CDATA[追捕]]></PURSUITS>
+		<ARRESTS><![CDATA[逮捕]]></ARRESTS>
+		<SUSPECTDEATHS><![CDATA[嫌疑人死亡]]></SUSPECTDEATHS>
+	</STATISTICS>
+	
+	/// All other notifications.
+	<NOTIFICATIONS>
+		<BEHAVIOURALANALYSIS><![CDATA[~b~行為分析~w~]]></BEHAVIOURALANALYSIS>
+		<BEHAVIOURALANALYSIS><![CDATA[嫌疑人看起來~y~ {0}。]]></BEHAVIOURALANALYSIS>
+		<BEHAVIOURALANALYSIS><![CDATA[受害者看起來~y~ {0}。]]></BEHAVIOURALANALYSIS>
+		<CRASHPREVENTION><![CDATA[~r~崩潰預防]]></CRASHPREVENTION>
+		<CRASHPREVENTION><![CDATA[~o~可能有問題。~w~ 請聯繫支持。]]></CRASHPREVENTION>
+		<DISTANCECHECK><![CDATA[~r~距離檢查]]></DISTANCECHECK>
+		<DISTANCECHECK><![CDATA[抱歉，您太近了，無法開始這次呼叫。]]></DISTANCECHECK>
+		<INVALIDPED><![CDATA[怪 GTAV！]]></INVALIDPED>
+		<INVALIDPED><![CDATA[~o~GTAV 刪除了我們的一個角色！我們無法做任何事情來防止崩潰，但這種情況不應該經常發生。]]></INVALIDPED>
+		<DISPATCH><![CDATA[調度]]></DISPATCH>
+		<DIALOGUEOVER><![CDATA[對話結束。根據您的判斷處理情況。]]></DIALOGUEOVER>
+		<BEGINSPEAKING><![CDATA[按 ~y~{0}~w~ 開始說話。]]></BEGINSPEAKING>
+		<ENDREMINDER><![CDATA[隨時按 ~y~{0}~w~ 結束呼叫。]]></ENDREMINDER>
+		<INFORMATION><![CDATA[資訊]]></INFORMATION>
+		<CODE4><![CDATA[~g~代碼 4.~w~ 顯示我可以接聽呼叫。]]></CODE4>
+		<PURSUITUPDATE><![CDATA[追捕更新]]></PURSUITUPDATE> 
+		<PURSUITUPDATE><![CDATA[認為嫌疑人是 ~y~{0}~w~。]]></PURSUITUPDATE> // 例如: "調度認為嫌疑人是 Bob Peterson。"
+		<PURSUITUPDATE><![CDATA[認為嫌疑人是 ~y~{0}~w~，過去有 ~y~{1}~w~ 次罰單。]]></PURSUITUPDATE> // 例如: "調度認為嫌疑人是 Bob Peterson，過去有 3 次罰單。"
+		<PURSUITUPDATE TARGET = "M"><![CDATA[認為嫌疑人是 ~y~男性~w~。]]></PURSUITUPDATE> 
+		<PURSUITUPDATE TARGET = "F"><![CDATA[認為嫌疑人是 ~y~女性~w~。]]></PURSUITUPDATE> 
+		<PURSUITUPDATE><![CDATA[認為嫌疑人是 ~y~{0}~w~，過去被攔截過 ~y~{1}~w~ 次。]]></PURSUITUPDATE> // 例如: "調度認為嫌疑人是 Bob Peterson，過去被攔截過 2 次。"
+		<PURSUITUPDATE><![CDATA[對嫌疑人~y~沒有詳細資料~w~。]]></PURSUITUPDATE> // 調度對嫌疑人一無所知。
+		<CALLOUTDISPLAYEDNOTIFICATION><![CDATA[調度]]></CALLOUTDISPLAYEDNOTIFICATION>
+		<CALLOUTDISPLAYEDNOTIFICATION><![CDATA[緊急呼叫]]></CALLOUTDISPLAYEDNOTIFICATION>
+		<CALLOUTDISPLAYEDNOTIFICATION><![CDATA[呼叫: ~b~{0}~n~~w~地點: ~y~{1}]]></CALLOUTDISPLAYEDNOTIFICATION>
+	</NOTIFICATIONS>
+</GENERAL> 
+
+<!-- <![CDATA[]]> -->

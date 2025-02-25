@@ -1,0 +1,14 @@
+<PEDDESCRIPTIONS>
+	<PREFIX><![CDATA[嫌疑人穿著~y~]]></PREFIX> // 如有需要，您可以在此添加 "TARGET = M/F"。
+	<PREFIX><![CDATA[嫌疑人穿著~y~]]></PREFIX> // 如有需要，您可以在此添加 "TARGET = M/F"。
+	<PREFIX><![CDATA[嫌疑人是~y~]]></PREFIX> // 如有需要，您可以在此添加 "TARGET = M/F"。
+	<DESCRIPTION PREFIX = "0" ><![CDATA[西裝~w~。]]></DESCRIPTION> // 男性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[藍色T恤~w~，正在慢跑。]]></DESCRIPTION> // 男性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[藍色格子襯衫~w~。]]></DESCRIPTION> // 女性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[皮外套~w~。]]></DESCRIPTION> // 女性嫌疑人。
+	<DESCRIPTION PREFIX = "2"><![CDATA[工人~w~，穿著~y~白色T恤~w~。]]></DESCRIPTION> // 男性嫌疑人。
+	<DESCRIPTION PREFIX = "1"><![CDATA[吊帶褲~w~。]]></DESCRIPTION> // 女性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[藍色襯衫~w~和~y~藍色短褲~w~。疑似是郵差。]]></DESCRIPTION> // 男性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[大紅色襯衫和帽子~w~，穿著~y~海軍藍褲子~w~。]]></DESCRIPTION> // 男性嫌疑人。
+	<DESCRIPTION PREFIX = "0"><![CDATA[淺藍色西裝外套和牛仔裙~w~，內穿~y~紅色襯衫~w~。]]></DESCRIPTION> // 女性嫌疑人。
+</PEDDESCRIPTIONS>
