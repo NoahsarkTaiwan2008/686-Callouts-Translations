@@ -1,27 +1,27 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Lane Closure]]></CALLOUTMESSAGE>
-		<FURTHERINFORMATION><![CDATA[A ~y~tow truck driver~w~ is requesting a ~o~lane closure~w~ to safely attend a broken down vehicle.]]></FURTHERINFORMATION>
-		<NOTIFICATION><![CDATA[~y~Close the affected lane~w~ and speak to the ~o~tow truck driver~w~.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[~y~Maintain the lane closure~w~ and redirect traffic to allow the ~o~Tow Truck Driver~w~ to repair the vehicle.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The ~g~vehicle was repaired~w~ successfully.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The vehicle will be ~o~towed~w~ as it couldn't be fixed.]]></NOTIFICATION>
+		<CALLOUTMESSAGE><![CDATA[封閉車道]]></CALLOUTMESSAGE>
+		<FURTHERINFORMATION><![CDATA[一名 ~y~拖吊車司機~w~要求 ~o~封閉車道~w~以便安全處理故障車輛。]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[~y~封閉受影響的車道~w~並與 ~o~拖吊車司機~w~交談。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~y~維持車道封閉~w~並重新引導交通，以便 ~o~拖吊車司機~w~修理車輛。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~g~車輛已成功修復~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[車輛將被 ~o~拖走~w~，因為無法修復。]]></NOTIFICATION>
 	</GENERAL>
 	<OUTCOME>
 		<DIALOGUES>
-			<DIALOGUE EMOTION="pleased"><![CDATA[~y~Mechanic:~w~ Officer, we've got this fixed over here. We'll be on our way shortly!]]></DIALOGUE>
+			<DIALOGUE EMOTION="pleased"><![CDATA[~y~技工:~w~ 警察，我們這邊修好了，馬上就可以出發！]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 	<OUTCOME>
 		<DIALOGUES>
-			<DIALOGUE EMOTION="disappointed"><![CDATA[~y~Mechanic:~w~ Sorry Officer, we can't get it fixed! I'll need enough space behind my truck to attach the vehicle to my tow.]]></DIALOGUE>
+			<DIALOGUE EMOTION="disappointed"><![CDATA[~y~技工:~w~ 抱歉，警察，我們沒辦法修好！我需要在我的拖車後面留出足夠的空間來拖走這輛車。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 	<EXTRA>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hey there, how can I help today?]]></DIALOGUE>
-			<DIALOGUE EMOTION="serious"><![CDATA[~y~Mechanic:~w~ Hey Officer. I need you to keep the lane closed so I can safely assist this broken down vehicle.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ No problem. Good luck! Let me know if you need anything.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 嘿，有什麼我可以幫忙的嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="serious"><![CDATA[~y~技工:~w~ 嘿，警察。我需要你保持車道封閉，好讓我能夠安全協助這輛故障的車輛。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 沒問題，祝你好運！如果需要任何幫忙，隨時告訴我。]]></DIALOGUE>
 		</DIALOGUES>
 	</EXTRA>
 </CALLOUT>

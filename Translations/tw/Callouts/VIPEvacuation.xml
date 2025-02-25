@@ -1,21 +1,21 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[VIP Evacuation]]></CALLOUTMESSAGE>
-		<NOTIFICATION><![CDATA[Press ~y~{0}~w~ to get the VIP to follow you.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The ~p~VIP~w~ will now ~g~follow you~w~.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[When possible, ~o~evacuate the VIP~w~ to the station!]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The ~g~VIP was rescued safely~w~.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The ~r~VIP is dead.~w~ ~y~Fight off the remaining enemies~w~ and handle the situation as you see fit!]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[Get closer to the ~p~VIP~w~ to tell them to ~g~follow you~w~.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[An ~r~unidentified helicopter~w~ is entering nearby airspace.]]></NOTIFICATION>
+		<CALLOUTMESSAGE><![CDATA[VIP 撤離]]></CALLOUTMESSAGE>
+		<NOTIFICATION><![CDATA[按 ~y~{0}~w~ 讓 VIP 跟隨你。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~p~VIP~w~ 現在會 ~g~跟隨你~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[如果可能，~o~將 VIP 撤離~w~到安全地點！]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~g~VIP 已安全撤離~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~r~VIP 已死亡~w~。~y~擊退剩餘敵人~w~，並根據情況處理！]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[靠近 ~p~VIP~w~ 以指示他們 ~g~跟隨你~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[一架 ~r~不明直升機~w~ 正進入附近空域。]]></NOTIFICATION>
 	</GENERAL>
 	<OUTCOME>
-		<FURTHERINFORMATION><![CDATA[The VIP's security detail is ~r~under attack~w~. Help ~y~neutralise the threats~w~ and await further instructions!]]></FURTHERINFORMATION>
-		<NOTIFICATION><![CDATA[~g~Protect the VIP!~w~ Dispatch will provide more instructions once the scene is under control.]]></NOTIFICATION>
+		<FURTHERINFORMATION><![CDATA[VIP 的安全保護隊伍正遭到 ~r~攻擊~w~。幫助 ~y~消除威脅~w~，並等待進一步指示！]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[~g~保護 VIP！~w~ 當現場控制後，指揮中心會提供更多指示。]]></NOTIFICATION>
 	</OUTCOME>
 	<OUTCOME>
-		<FURTHERINFORMATION><![CDATA[The VIP's security detail has been ~r~eliminated~w~. Rescue the VIP who has been ~y~taken hostage~w~.]]></FURTHERINFORMATION>
-		<NOTIFICATION><![CDATA[Try to ~y~approach the VIP~w~ without ~o~being spotted by the armed attackers~w~.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[~r~You've been spotted~w~. ~g~Protect the VIP~w~ who will now be ~o~targeted by the attackers~w~.]]></NOTIFICATION>
+		<FURTHERINFORMATION><![CDATA[VIP 的安全保護隊伍已被 ~r~消滅~w~。救援被 ~y~挾持~w~的 VIP。]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[嘗試 ~y~接近 VIP~w~，並避免 ~o~被武裝攻擊者發現~w~。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~r~你已被發現~w~。~g~保護 VIP~w~，他現在將成為 ~o~攻擊者的目標~w~。]]></NOTIFICATION>
 	</OUTCOME>
 </CALLOUT>

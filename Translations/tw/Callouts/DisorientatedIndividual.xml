@@ -1,51 +1,51 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Disorientated Individual]]></CALLOUTMESSAGE>
-		<FURTHERINFORMATION><![CDATA[~p~Camera operators~w~ have ~y~raised concerns~w~ over a person, check on them.]]></FURTHERINFORMATION>
+		<CALLOUTMESSAGE><![CDATA[迷失方向的人]]></CALLOUTMESSAGE>
+		<FURTHERINFORMATION><![CDATA[~p~攝影師~w~對一名個體表示關切，請檢查該人。]]></FURTHERINFORMATION>
 	</GENERAL>
 	<OUTCOME0>
-		<NOTIFICATION><![CDATA[to have a strong odour of alcohol]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[有強烈的酒精氣味]]></NOTIFICATION>
 		<DIALOGUES>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect: ~w~Splaaaa, bleugggghhhhh]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You: ~w~Hello, is everything alright?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You: ~w~Hello! Can we just have a quick conversation please?]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect: ~w~Neooooooooo, but I don't want to.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You: ~w~I think it would be best if we could; do you have any details on you?]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect: ~w~Hmmm...no thanksss...]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect:~w~ BLALALALALA! TIME TO GOO BYEE OFFICER!]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人: ~w~噢啊，噗噗噗～～～]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~你好，沒事吧?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~你好!我們能聊一下嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人: ~w~不～～～，我不想。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~我覺得我們最好聊一聊；你身上有任何證件嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人: ~w~嗯...不要謝謝...]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人: ~w~BLALALALALA!該走啦，拜拜警官!]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME0>
 	<OUTCOME1>
 		<DIALOGUES>
-			<DIALOGUE EMOTION="relieved"><![CDATA[~r~Suspect:~w~ Hello, thank god you are here!]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You: ~w~ Hello, what's the matter?]]></DIALOGUE>
-			<DIALOGUE EMOTION="relieved"><![CDATA[~r~Suspect:~w~ I've got lost, I'm not from the area you see. I don't know how to get home.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Oh dear, is there anyone who could pick you up?]]></DIALOGUE>
-			<DIALOGUE EMOTION="happy"><![CDATA[~r~Suspect:~w~ Oh yes, I do! Let me text them now.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You: ~w~ Perfect. If they can't come I will see if we can put together some alternative arrangements.]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~r~嫌疑人: ~w~ 哦，謝天謝地你來了!]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~ 你好，有什麼事嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~r~嫌疑人: ~w~ 我迷路了，我不是這裡的人。你看，我不知道怎麼回家。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~ 哎呀，有人能來接你嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="happy"><![CDATA[~r~嫌疑人: ~w~ 哦，有的!我現在就發簡訊給他們。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你: ~w~ 完美。如果他們不能來，我會看看是否能安排其他方案。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME1>
 	<OUTCOME2>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ What's going on?]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect:~w~ Nothingg...just had a great partyyy.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I see, and you are just wandering around?]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect:~w~ Yesss, I loveee being outside.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Can I have your name please?]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect:~w~ Okay..my name is Ben Dover.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Quit the jokes, I want your real name.]]></DIALOGUE>
-			<DIALOGUE EMOTION="drunk"><![CDATA[~r~Suspect:~w~ Let me try to remember...I think it is {0}.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 怎麼了?]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人:~w~ 沒什麼...只是參加了一個很棒的派對。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我懂了，那你就這樣在四處閒逛?]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人:~w~ 是的，我超愛待在外面。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 能告訴我你的名字嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人:~w~ 好的..我的名字是 Ben Dover。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 別開玩笑了，我要你的真名。]]></DIALOGUE>
+			<DIALOGUE EMOTION="drunk"><![CDATA[~r~嫌疑人:~w~ 讓我試著回想一下...我想是 {0}。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME2>
 	<OUTCOME3>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You: ~w~Hi there, is everything okay?]]></DIALOGUE>
-			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~Suspect:~w~ Yes, yes it is.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I see, we just had reports of a disorientated invididual in the area.]]></DIALOGUE>
-			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~Suspect:~w~ Okay, and is that a crime?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ No, we just wanted to establish that you are okay.]]></DIALOGUE>
-			<DIALOGUE EMOTION="irritated"><![CDATA[~r~Suspect:~w~ I'm perfectly fine, but I'd appreciate if you left me alone.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ If you insist, have a good day.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 嗨，這裡一切還好嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~嫌疑人:~w~ 是的，沒問題。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我明白了，我們收到報告說這裡有一個迷失方向的人。]]></DIALOGUE>
+			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~嫌疑人:~w~ 好的，那這算不算犯罪?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 不是，我們只是想確認你沒事。]]></DIALOGUE>
+			<DIALOGUE EMOTION="irritated"><![CDATA[~r~嫌疑人:~w~ 我沒問題，但我希望你能離開我。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 如果你這麼要求，那祝你有個愉快的一天。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME3>
 </CALLOUT>
