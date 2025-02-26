@@ -1,60 +1,60 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Vehicle Fire]]></CALLOUTMESSAGE>
-		<NOTIFICATION><![CDATA[Press ~y~{0}~w~ to accept this call.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[The ~y~informant ended the call~w~. We've routed your ~g~GPS~w~ to the location. Head there.]]></NOTIFICATION>
-		<FURTHERINFORMATION><![CDATA[A ~r~stolen vehicle~w~ has been spotted ~o~on fire~w~. Attend the scene immediately.]]></FURTHERINFORMATION>
+		<CALLOUTMESSAGE><![CDATA[火燒車]]></CALLOUTMESSAGE>
+		<NOTIFICATION><![CDATA[按 ~y~{0}~w~ 來接受這個指派。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[~y~報案人已結束通話~w~。我們已將你的 ~g~GPS~w~ 路徑設定為目的地。前往現場。]]></NOTIFICATION>
+		<FURTHERINFORMATION><![CDATA[發現一輛 ~r~被盜的車輛~w~ 正在 ~o~燃燒~w~。立即處理現場。]]></FURTHERINFORMATION>
 	
-			<NOTIFICATION><![CDATA[Once the scene has been cleared, press ~y~{0}~w~ to set your GPS to the owner's home.]]></NOTIFICATION>
-			<NOTIFICATION><![CDATA[Inform the ~p~owner~w~ of the ~y~{0}~w~ who lives nearby.]]></NOTIFICATION>
-			<NOTIFICATION><![CDATA[Vehicle fire extinguished. Heading to the registered owner.]]></NOTIFICATION>
+			<NOTIFICATION><![CDATA[現場處理完畢後，按 ~y~{0}~w~ 設定你的 GPS 為車主的住址。]]></NOTIFICATION>
+			<NOTIFICATION><![CDATA[通知 ~p~車主~w~，這輛 ~y~{0}~w~ 的車輛位於附近。]]></NOTIFICATION>
+			<NOTIFICATION><![CDATA[車輛火災已撲滅。前往車主住處。]]></NOTIFICATION>
 
 	</GENERAL>
 	<OUTCOME0>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. I'm afraid we've got some bad news for you.]]></DIALOGUE>
-			<DIALOGUE EMOTION="shocked"><![CDATA[~y~Victim:~w~ Oh no! What is it?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Unfortunately earlier today, I attended a vehicle fire. We've traced you as the registered owner of the vehicle, which I believed you recently reported as stolen?]]></DIALOGUE>
-			<DIALOGUE EMOTION="shocked"><![CDATA[~y~Victim:~w~ Yes...I don't believe it. I'm in shock. So it was stolen, and then torched?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Exactly. I've got some information here for you on what to do now. Hopefully that provides some much needed clarification.]]></DIALOGUE>
-			<DIALOGUE EMOTION="optimistic"><![CDATA[~y~Victim:~w~ Thank you very much. Looking at the glass half full, my insurance should cover this.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Good to hear. Have a good rest of your day, and we'll be in touch with further details.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，我們有些不好的消息要告訴你。]]></DIALOGUE>
+			<DIALOGUE EMOTION="shocked"><![CDATA[~y~受害者:~w~ 哎呀!是什麼事情?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 很不幸地，今天早些時候，我處理了一起車輛火災。我們追蹤到你的車輛是登記在你名下，我記得你最近報案過它被盜對吧?]]></DIALOGUE>
+			<DIALOGUE EMOTION="shocked"><![CDATA[~y~受害者:~w~ 是的...真不敢相信。我很震驚。那就是被盜後再縱火了?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 沒錯。我這裡有一些資料，告訴你接下來該怎麼做。希望能幫助你更清楚了解情況。]]></DIALOGUE>
+			<DIALOGUE EMOTION="optimistic"><![CDATA[~y~受害者:~w~ 非常感謝。往好處想，我的保險應該能夠全部理賠。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 很高興聽到這個。希望你接下來的日子順利，我們會再聯繫，提供更多細節。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME0>
 	<OUTCOME1>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hello there. I'm here to deliver some news to you.]]></DIALOGUE>
-			<DIALOGUE EMOTION="sad"><![CDATA[~y~Victim:~w~ It's news on my vehicle isn't it? And based off the fact it isn't behind you, I can guess.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ That's accurate I'm afraid. Earlier today a vehicle was spotted on fire, I'm sorry to report this was your vehicle.]]></DIALOGUE>
-			<DIALOGUE EMOTION="shocked"><![CDATA[~y~Victim:~w~ That's shocking. How did it happen?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ At this stage, we don't know, though it is likely to be foul play. Here are some details, and steps you should take now.]]></DIALOGUE>
-			<DIALOGUE EMOTION="annoyed"><![CDATA[~y~Victim:~w~ Well thanks. My insurance is going to go through the roof.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hopefully they understand, and apologies once again. We'll be in touch.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，我來告訴你一些消息。]]></DIALOGUE>
+			<DIALOGUE EMOTION="sad"><![CDATA[~y~受害者:~w~ 這是關於我的車吧?根據它不在你後面，我大概能猜到。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 很抱歉，是的。今天稍早，發現一輛車起火了，很遺憾告訴你，那是你的車。]]></DIALOGUE>
+			<DIALOGUE EMOTION="shocked"><![CDATA[~y~受害者:~w~ 太令人震驚了。怎麼會發生這種事?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 到目前為止，我們還不知道，但很可能是惡意行為。這裡有一些細節和你現在應該採取的動作。]]></DIALOGUE>
+			<DIALOGUE EMOTION="annoyed"><![CDATA[~y~受害者:~w~ 好吧，謝謝你。我保險費會漲得不可思議。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 希望他們能理解，再次表示歉意。我們會再聯繫。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME1>
 	<OUTCOME2>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Excuse me? Hi there, I just need to speak to you.]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~y~Victim:~w~ Oh, what's going on?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ It's about your vehicle. Earlier today, we attended a call regarding a vehicle which was on fire. We've traced you back as the registered owner, and we wanted to let you know.]]></DIALOGUE>
-			<DIALOGUE EMOTION="disbelief"><![CDATA[~y~Victim:~w~ Really? Are you sure it was my vehicle? I don't believe it! I thought it was stolen, not burnt to the crisp.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ We don't know the cause at this time, but we're investigating. However, here are some papers you should read, on what to do next. Here they are.]]></DIALOGUE>
-			<DIALOGUE EMOTION="shocked"><![CDATA[~y~Victim:~w~ Thank you. This has all happened so quickly. I hope no one was hurt, especially if it was intentional.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Indeed, well have a pleasant rest of your day. And if you have any further questions, don't hesitate to get in touch.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 請問一下?您好，我需要和您談談。]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~y~受害人:~w~ 哦，發生了什麼事?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 是關於您的車輛。今天稍早，我們接到一個火燒車報案。我們追蹤到您的車輛是註冊車主，所以特地來告知您。]]></DIALOGUE>
+			<DIALOGUE EMOTION="disbelief"><![CDATA[~y~受害人:~w~ 真的嗎?您確定是我的車嗎?我不敢相信!我以為它被偷了，沒想到竟然被燒成這樣。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我們目前還不清楚原因，但我們正在調查。不過，這裡有一些文件，您可以看一下，了解接下來該做的事。]]></DIALOGUE>
+			<DIALOGUE EMOTION="shocked"><![CDATA[~y~受害人:~w~ 謝謝您。這一切發生得太快了。我希望沒有人受傷，尤其是如果這是故意的。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 確實，希望您能過得愉快。如果您有任何問題，隨時聯繫我們。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME2>
 	<EXTRA>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hello. How can I help you?]]></DIALOGUE>
-			<DIALOGUE EMOTION="tense"><![CDATA[~y~Informant:~w~ Listen, I don't have much time, but there's something I need to tell you.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I'm sorry, who are you?]]></DIALOGUE>
-			<DIALOGUE EMOTION="fearful"><![CDATA[~y~Informant:~w~ Don't ask me questions. A vehicle is going to be torched, right now. I need you to go there now!]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Where? And why are you telling me this?]]></DIALOGUE>
-			<DIALOGUE EMOTION="tense"><![CDATA[~y~Informant:~w~ I've sent through the location to your mobile. Someone I know has made a mistake..they're trying to get revenge on the wrong person.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Who's they that you keep referring to? And why are they setting someone's vehicle on fire?]]></DIALOGUE>
-			<DIALOGUE EMOTION="mysterious"><![CDATA[~y~Informant:~w~ Mistakes...they made a mistake.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Let's slow down. I'm going to need some context.]]></DIALOGUE>
-			<DIALOGUE EMOTION="annoyed"><![CDATA[~y~Informant:~w~ I've said too much...shit....]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，有什麼我可以幫忙的嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="tense"><![CDATA[~y~報案者:~w~ 聽著，我沒多少時間，但有件事我需要告訴你。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 抱歉，您是誰?]]></DIALOGUE>
+			<DIALOGUE EMOTION="fearful"><![CDATA[~y~報案者:~w~ 別問我問題。現在有輛車要被縱火，我需要你馬上過去!]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 哪裡?你為什麼告訴我這些?]]></DIALOGUE>
+			<DIALOGUE EMOTION="tense"><![CDATA[~y~報案者:~w~ 我已經把位置發到你手機了。我的一個朋友犯了錯...他們想要報復錯誤的人。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你一直提到的他們是誰?為什麼他們要燒別人的車?]]></DIALOGUE>
+			<DIALOGUE EMOTION="mysterious"><![CDATA[~y~報案者:~w~ 錯誤...他們犯了錯。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我們冷靜一下。我需要一些背景資訊。]]></DIALOGUE>
+			<DIALOGUE EMOTION="annoyed"><![CDATA[~y~報案者:~w~ 我說得太多了...糟糕....]]></DIALOGUE>
 		</DIALOGUES>
 	</EXTRA>
 </CALLOUT>
