@@ -1,46 +1,46 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Vehicle On Sidewalk]]></CALLOUTMESSAGE>
-		<FURTHERINFORMATION><![CDATA[A vehicle was reported on a sidewalk, ~y~blocking it~w~. Try to speak with the driver.]]></FURTHERINFORMATION>
+		<CALLOUTMESSAGE><![CDATA[車輛在人行道上]]></CALLOUTMESSAGE>
+		<FURTHERINFORMATION><![CDATA[有車輛被檢舉停放在人行道上，~y~阻擋了通行~w~。試著與駕駛人交涉。]]></FURTHERINFORMATION>
 	</GENERAL>
 	<OUTCOME>
 	</OUTCOME>
 	<OUTCOME>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. I'm afraid you can't idle here.]]></DIALOGUE>
-			<DIALOGUE EMOTION="angry"><![CDATA[~r~Suspect:~w~ I'm not moving.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I'm going to need you to-]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 您好，恐怕您不能在這裡停車。]]></DIALOGUE>
+			<DIALOGUE EMOTION="angry"><![CDATA[~r~嫌疑人:~w~ 我不會走的。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我需要您──]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 	<OUTCOME>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Stay there for me. What's up?]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ Well, nothing much. Is something wrong?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ This is a sidewalk. You need to move.]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ I'm waiting for someone, they'll be here any minute now.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ It wasn't a request. This is a sidewalk, people are using it.]]></DIALOGUE>
-			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~Suspect:~w~ I'll go park somewhere else.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 站在那裡等一下。怎麼了?]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 嗯，沒什麼啊。怎麼了?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 這是人行道。你需要移動。]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 我在等人，他們馬上就到。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 這不是請求。這是人行道，其他人也需要走。]]></DIALOGUE>
+			<DIALOGUE EMOTION="annoyed"><![CDATA[~r~嫌疑人:~w~ 我會去別的地方停車。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 	<OUTCOME>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. You are parked on a sidewalk, did you know that?]]></DIALOGUE>
-			<DIALOGUE EMOTION="hopeful"><![CDATA[~r~Suspect:~w~ Yes, but I am just waiting for a friend. Can I stay?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I'm afraid not.]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ Well where else can I go?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ A parking place or similar, there are plenty around here.]]></DIALOGUE>
-			<DIALOGUE EMOTION="apologetic"><![CDATA[~r~Suspect:~w~ Understood. Sorry, won't happen again.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，你停在人行道上了，你知道嗎?]]></DIALOGUE>
+			<DIALOGUE EMOTION="hopeful"><![CDATA[~r~嫌疑人:~w~ 知道，但我只是在等朋友。我可以繼續停這裡嗎?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 恐怕不行。]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 那我應該停哪裡?]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 停在停車位或者其他地方，這附近有很多這樣的地方。]]></DIALOGUE>
+			<DIALOGUE EMOTION="apologetic"><![CDATA[~r~嫌疑人:~w~ 明白了。抱歉，下次不會再這樣了。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 	<OUTCOME>
-		<OTHER><![CDATA[~r~Packaged cannabis bags]]></OTHER>
+		<OTHER><![CDATA[~r~包裝的大麻袋]]></OTHER>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. Why are you parked here?]]></DIALOGUE>
-			<DIALOGUE EMOTION="mysterious"><![CDATA[~r~Suspect:~w~ I'm delivering something.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Delivering what? You don't look like a delivery driver if you don't mind me saying.]]></DIALOGUE>
-			<DIALOGUE EMOTION="serious"><![CDATA[~r~Suspect:~w~ Uh, something that I need to do.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ So, you are parked here, waiting to deliver something?]]></DIALOGUE>
-			<DIALOGUE EMOTION="pleading"><![CDATA[~r~Suspect:~w~ Look, I need to deliver this, for my family. Please.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，你為什麼停在這裡?]]></DIALOGUE>
+			<DIALOGUE EMOTION="mysterious"><![CDATA[~r~嫌疑人:~w~ 我在送東西。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 送什麼?如果你不介意我說，你看起來不像是送貨司機。]]></DIALOGUE>
+			<DIALOGUE EMOTION="serious"><![CDATA[~r~嫌疑人:~w~ 呃，有些事情我需要做。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 所以，你停在這裡等著送東西?]]></DIALOGUE>
+			<DIALOGUE EMOTION="pleading"><![CDATA[~r~嫌疑人:~w~ 看，我需要送這個，為了我的家人。拜託。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME>
 </CALLOUT>
