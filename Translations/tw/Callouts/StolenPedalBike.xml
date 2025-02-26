@@ -1,50 +1,50 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Stolen Pedal Bike]]></CALLOUTMESSAGE>
-		<FURTHERINFORMATION><![CDATA[A ~y~stolen bike has been spotted~w~, pull over the rider.]]></FURTHERINFORMATION>
+		<CALLOUTMESSAGE><![CDATA[被偷的腳踏車]]></CALLOUTMESSAGE>
+		<FURTHERINFORMATION><![CDATA[有一輛~y~被盜腳踏車~w~被發現，攔下騎車者。]]></FURTHERINFORMATION>
 	</GENERAL>
 	<OUTCOME0>
 	</OUTCOME0>
 	<OUTCOME1>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. Is it okay if I ask you a few questions?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~r~Suspect:~w~ Sure, go on. But watch that traffic behind you. Watch out!]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，請問我可以問你幾個問題嗎？]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~r~嫌疑人:~w~ 當然，請問。但小心後面的車流，注意安全！]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME1>
 	<OUTCOME2>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. Can we have a conversation about that bike?]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ What about it?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ It has been reported stolen, today infact.]]></DIALOGUE>
-			<DIALOGUE EMOTION="relieved"><![CDATA[~r~Suspect:~w~ Oh, haha. Sorry, I reported it! I thought I'd lost it, but I found it!]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ I see, so this bike is registered to you?]]></DIALOGUE>
-			<DIALOGUE EMOTION="proud"><![CDATA[~r~Suspect:~w~ Yep, absolutely. Run all the checks you need.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，能跟你聊聊那輛腳踏車的事嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 怎麼了？]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 它今天被報案為失竊車輛。]]></DIALOGUE>
+			<DIALOGUE EMOTION="relieved"><![CDATA[~r~嫌疑人:~w~ 哦，哈哈，抱歉，是我報的！我以為我丟了它，但後來找到啦！]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 我了解，所以這輛腳踏車是登記在你名下的？]]></DIALOGUE>
+			<DIALOGUE EMOTION="proud"><![CDATA[~r~嫌疑人:~w~ 是的，是我的。隨便查，我不介意。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME2>
 	<OUTCOME3>
-		<NOTIFICATION><![CDATA[anxious]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[焦慮]]></NOTIFICATION>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. The reason I'm speaking to you is because of that bike.]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ I'm trying to get somewhere. The tire isn't flat or anything. What's wrong?]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Yesterday it was reported stolen.]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ Oh. Uhh, that is odd.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ You wouldn't know why would you?]]></DIALOGUE>
-			<DIALOGUE EMOTION="uneasy"><![CDATA[~r~Suspect:~w~ Uh...yes! I completely forgot I had reported it stolen.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，我跟你說話的原因是關於那輛腳踏車。]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 我正在趕路，輪胎也沒問題。怎麼了？]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 它昨天被報案為失竊車輛。]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 哦。呃，那確實有點奇怪。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你應該不知道為什麼吧？]]></DIALOGUE>
+			<DIALOGUE EMOTION="uneasy"><![CDATA[~r~嫌疑人:~w~ 呃...對！我完全忘記了我報案過它失竊。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME3>	
 	<OUTCOME4>
 		<DIALOGUES>
-			<DIALOGUE><![CDATA[~b~You:~w~ Hi there. Could we have a little chat about that bike?]]></DIALOGUE>
-			<DIALOGUE EMOTION="confused"><![CDATA[~r~Suspect:~w~ Okay.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ On our records it has recently been reported stolen.]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~r~Suspect:~w~ ...]]></DIALOGUE>
-			<DIALOGUE><![CDATA[~b~You:~w~ Sorry, what was that?]]></DIALOGUE>
-			<DIALOGUE EMOTION="uneasy"><![CDATA[~r~Suspect:~w~ I'm not commenting on the matter.]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 你好，我們能聊聊那輛腳踏車嗎？]]></DIALOGUE>
+			<DIALOGUE EMOTION="confused"><![CDATA[~r~嫌疑人:~w~ 好的。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 根據我們的紀錄，它最近被報告為失竊。]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~r~嫌疑人:~w~ ...]]></DIALOGUE>
+			<DIALOGUE><![CDATA[~b~你:~w~ 抱歉，剛才那是什麼意思？]]></DIALOGUE>
+			<DIALOGUE EMOTION="uneasy"><![CDATA[~r~嫌疑人:~w~ 我不會回答任何問題。]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME4>	
 	<OUTCOME5>
 		<DIALOGUES>
-			<DIALOGUE EMOTION="angry"><![CDATA[~r~Suspect:~w~ ARRRRGGGHH! NOT YOU!]]></DIALOGUE>
+			<DIALOGUE EMOTION="angry"><![CDATA[~r~嫌疑人:~w~ 啊啊啊啊！不是你！]]></DIALOGUE>
 		</DIALOGUES>
 	</OUTCOME5>
 </CALLOUT>
