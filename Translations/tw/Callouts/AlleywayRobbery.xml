@@ -1,26 +1,26 @@
 <CALLOUT>
 	<GENERAL>
-		<CALLOUTMESSAGE><![CDATA[Alleyway Robbery]]></CALLOUTMESSAGE>
+		<CALLOUTMESSAGE><![CDATA[巷道搶劫]]></CALLOUTMESSAGE>
 	</GENERAL>
 	<OUTCOME0>
-		<FURTHERINFORMATION><![CDATA[A ~y~suspected robbery~w~ is occurring around {0}. Investigate the scene.]]></FURTHERINFORMATION>
+		<FURTHERINFORMATION><![CDATA[一宗~y~疑似搶劫~w~正在{0}附近發生。請調查現場。]]></FURTHERINFORMATION>
 	</OUTCOME0>
 	<OUTCOME1>
-		<FURTHERINFORMATION><![CDATA[A ~y~suspected robbery~w~ is occurring around {0}. Investigate the scene.]]></FURTHERINFORMATION>
-		<OTHER><![CDATA[Stolen Goods]]></OTHER>
+		<FURTHERINFORMATION><![CDATA[一宗~y~疑似搶劫~w~正在{0}附近發生。請調查現場。]]></FURTHERINFORMATION>
+		<OTHER><![CDATA[被盜物品]]></OTHER>
 	</OUTCOME1>
 	<OUTCOME2>
-		<FURTHERINFORMATION><![CDATA[A ~y~suspected robbery~w~ is occurring around {0} and the victim is ~r~reportedly at gunpoint~w~. Investigate the scene.]]></FURTHERINFORMATION>
+		<FURTHERINFORMATION><![CDATA[一宗~y~疑似搶劫~w~正在{0}附近發生，受害者~r~據報被槍指著~w~。請調查現場。]]></FURTHERINFORMATION>
 	</OUTCOME2>
 	<OUTCOME3>
-		<FURTHERINFORMATION><![CDATA[A ~y~suspected robbery~w~ is occurring around {0} with two robbers reported. Investigate the scene.]]></FURTHERINFORMATION>
-		<NOTIFICATION><![CDATA[Press ~y~{0}~w~ to ~g~recover~w~ the stolen goods.]]></NOTIFICATION>
-		<NOTIFICATION><![CDATA[Recovered a stolen ~y~{0}~w~ as ~g~evidence~w~.]]></NOTIFICATION>
-		<OTHER><![CDATA[Bag]]></OTHER>
-		<OTHER><![CDATA[Shopping Bag]]></OTHER>
-		<OTHER><![CDATA[Pizza]]></OTHER>
-		<OTHER><![CDATA[Laptop]]></OTHER>
-		<OTHER><![CDATA[Parcel]]></OTHER>
+		<FURTHERINFORMATION><![CDATA[一宗~y~疑似搶劫~w~正在{0}附近發生，據報有兩名搶匪。請調查現場。]]></FURTHERINFORMATION>
+		<NOTIFICATION><![CDATA[按~y~{0}~w~以~g~取回~w~被盜物品。]]></NOTIFICATION>
+		<NOTIFICATION><![CDATA[已取回被盜的~y~{0}~w~作為~g~證據~w~。]]></NOTIFICATION>
+		<OTHER><![CDATA[袋子]]></OTHER>
+		<OTHER><![CDATA[購物袋]]></OTHER>
+		<OTHER><![CDATA[披薩]]></OTHER>
+		<OTHER><![CDATA[筆記型電腦]]></OTHER>
+		<OTHER><![CDATA[包裹]]></OTHER>
 	</OUTCOME3>
 </CALLOUT>
 <!-- <![CDATA[]]> -->
